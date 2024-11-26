@@ -1,0 +1,14 @@
+
+State Machine - |top_tp|text_lcd:u_text_lcd|state
+Name state.EXCUTE_CMD state.BUSY_CHECK state.WAIT_INPUT state.IDLE 
+state.IDLE 0 0 0 0 
+state.WAIT_INPUT 0 0 1 1 
+state.BUSY_CHECK 0 1 0 1 
+state.EXCUTE_CMD 1 0 0 1 
+
+State Machine - |top_tp|ir_rx:u_ir_rx|state
+Name state.COMPLETE state.DATACODE state.LEADCODE state.IDLE 
+state.IDLE 0 0 0 0 
+state.LEADCODE 0 0 1 1 
+state.DATACODE 0 1 0 1 
+state.COMPLETE 1 0 0 1 

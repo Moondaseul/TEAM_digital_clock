@@ -1,0 +1,149 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "o_seg_enb[0]",
+					"strict" : false
+				},
+				{
+					"name" : "o_seg_enb[1]",
+					"strict" : false
+				},
+				{
+					"name" : "o_seg_enb[2]",
+					"strict" : false
+				},
+				{
+					"name" : "o_seg_enb[3]",
+					"strict" : false
+				},
+				{
+					"name" : "o_seg_enb[4]",
+					"strict" : false
+				},
+				{
+					"name" : "o_seg_enb[5]",
+					"strict" : false
+				},
+				{
+					"name" : "o_seg_dp",
+					"strict" : false
+				},
+				{
+					"name" : "o_seg[0]",
+					"strict" : false
+				},
+				{
+					"name" : "o_seg[1]",
+					"strict" : false
+				},
+				{
+					"name" : "o_seg[2]",
+					"strict" : false
+				},
+				{
+					"name" : "o_seg[3]",
+					"strict" : false
+				},
+				{
+					"name" : "o_seg[4]",
+					"strict" : false
+				},
+				{
+					"name" : "o_seg[5]",
+					"strict" : false
+				},
+				{
+					"name" : "o_seg[6]",
+					"strict" : false
+				},
+				{
+					"name" : "o_lcd_e",
+					"strict" : false
+				},
+				{
+					"name" : "o_lcd_rs",
+					"strict" : false
+				},
+				{
+					"name" : "o_lcd_rw",
+					"strict" : false
+				},
+				{
+					"name" : "o_buzz",
+					"strict" : false
+				},
+				{
+					"name" : "io_lcd_data[0]",
+					"strict" : false
+				},
+				{
+					"name" : "io_lcd_data[1]",
+					"strict" : false
+				},
+				{
+					"name" : "io_lcd_data[2]",
+					"strict" : false
+				},
+				{
+					"name" : "io_lcd_data[3]",
+					"strict" : false
+				},
+				{
+					"name" : "io_lcd_data[4]",
+					"strict" : false
+				},
+				{
+					"name" : "io_lcd_data[5]",
+					"strict" : false
+				},
+				{
+					"name" : "io_lcd_data[6]",
+					"strict" : false
+				},
+				{
+					"name" : "io_lcd_data[7]",
+					"strict" : false
+				},
+				{
+					"name" : "i_rstn",
+					"strict" : false
+				},
+				{
+					"name" : "i_clk",
+					"strict" : false
+				},
+				{
+					"name" : "i_sw2",
+					"strict" : false
+				},
+				{
+					"name" : "i_sw6",
+					"strict" : false
+				},
+				{
+					"name" : "i_sw4",
+					"strict" : false
+				},
+				{
+					"name" : "i_sw5",
+					"strict" : false
+				},
+				{
+					"name" : "i_sw0",
+					"strict" : false
+				},
+				{
+					"name" : "i_sw1",
+					"strict" : false
+				},
+				{
+					"name" : "i_sw3",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
